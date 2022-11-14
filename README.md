@@ -1,4 +1,5 @@
-# sweet-wind-828
+
+<h1 align="center">MGNREGA Project</h1>
 
 
 MGNREGA stands for The Mahatma Gandhi National Rural Employment Guarantee Act whose aim is to provide at least 100 days of guaranteed wage employment in a year to every rural household. I have tried to make some backend functionalities of MGNREGA using Java.
